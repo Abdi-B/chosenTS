@@ -112,7 +112,7 @@ function getRandomColor(): Rgb {
 const colorOne = getRandomColor()
 const colorTwo = getRandomColor()
 
-// console.log(colorOne, colorTwo)
+console.log(colorOne, colorTwo)
 
 type User = {
   name: string,
