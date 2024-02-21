@@ -11,7 +11,7 @@
 
   things.push({id: 2})
 
-  // console.log(things)
+  console.log(things)
 
 //   functions and any
 
