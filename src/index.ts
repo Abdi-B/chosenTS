@@ -22,7 +22,7 @@ function addNum(value: any): any {
 const resOne = addNum('hello ')
  // console.log(resOne)
 const resTwo = addNum(3)
-console.log(resTwo)
+// console.log(resTwo)
 
 function addNum2(a: number, b: number): [number, number] {
   let c = b;
