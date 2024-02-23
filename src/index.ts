@@ -20,7 +20,7 @@ function addNum(value: any): any {
 }
 
 const resOne = addNum('hello ')
- console.log(resOne)
+ // console.log(resOne)
 const resTwo = addNum(3)
 console.log(resTwo)
 
