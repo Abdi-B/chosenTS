@@ -85,7 +85,7 @@ const newPost: Post = {
 // console.log(newPost)
 
 function createPost(post:Post): void {
-   console.log(`post title  ${post.title} and post Author  ${post.author.name}`)
+   // console.log(`post title  ${post.title} and post Author  ${post.author.name}`)
   }
 
  createPost(newPost)
