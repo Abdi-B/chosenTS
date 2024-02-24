@@ -10,6 +10,7 @@
   let things: any[] = ['ab', 3, false]
 
   things.push({id: 2})
+// console.log(things.pop())
 
   // console.log(things)
 
