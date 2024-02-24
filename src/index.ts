@@ -31,7 +31,7 @@ function addNum2(a: number, b: number): [number, number] {
   return [c,d]
 }
   const [c,d] = addNum2(4, 5)
- console.log("CHANGE",`${c}` ," ", `${d}` )
+ // console.log("CHANGE",`${c}` ," ", `${d}` )
 
 // Tuples
 
