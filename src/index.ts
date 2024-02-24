@@ -145,3 +145,4 @@ let anotherId: Id
 
 anotherId = 5
 
+console.log(email)
